@@ -1,7 +1,6 @@
 # React Todo App with Local Storage 📝
 
-![React Todo App]([<img width="960" alt="TodoSS" src="https://github.com/ShouryaSengar/react-todo-app-with-local-storage/assets/93751651/39234a9a-0731-47d6-8d0b-630afc785095">](https://raw.githubusercontent.com/ShouryaSengar/react-todo-app-with-local-storage/main/TodoSS.png)
-)
+[<img width="960" alt="TodoSS" src="https://github.com/ShouryaSengar/react-todo-app-with-local-storage/assets/93751651/39234a9a-0731-47d6-8d0b-630afc785095">](https://raw.githubusercontent.com/ShouryaSengar/react-todo-app-with-local-storage/main/TodoSS.png)
 
 This is a responsive and feature-rich React-based web application that allows you to create and manage your to-do lists effortlessly. It includes CRUD (Create, Read, Update, Delete) operations for seamless task management and utilizes local storage for persistent data storage.
 
